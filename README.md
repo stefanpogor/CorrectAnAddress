@@ -12,6 +12,8 @@ CorrectAnAddress este o aplicație în care un utilizator poate introduce o adre
 * Tincu Evelyna: crearea pachetelor repositories și models cu clasele aferente; realizare pagini html; realizare design pentru pagini (css); populare json cu țările, statele/județele și orașele respective fiecăreia. 
 
 ### Tehnologii folosite 
+* Java - limbaj de programare
+* PostgreSQL - creare bază de date
 * Spring Boot (Spring Web, Spring Data-Jpa) - pentru realizare unui rest api, conectare la baza de date
 * HTML - realizarea paginilor web în care utilizatorul introduce datele 
 * CSS - definirea unui design plăcut și atractiv
