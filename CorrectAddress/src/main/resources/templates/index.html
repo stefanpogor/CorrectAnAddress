@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Jura:wght@500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <title> Correct Address </title>
+</head>
+<body>
+<form id="myForm" action="#" th:action="@{/verify}" method="post" th:object="${address}">
+  <table class="table-area card">
+    <tr>
+      <td>
+        Țară:
+      </td>
+      <td>
+        <input type="text" th:field="*{countryName}">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Stat/Județ:
+      </td>
+      <td>
+        <input type="text" th:field="*{stateName}">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Oraș:
+      </td>
+      <td>
+        <input type="text" th:field="*{cityName}">
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" class="submit-button">
+        <input type="submit" value="Verifică adresa">
+      </td>
+    </tr>
+  </table>
+</form>
+</body>
+</html>

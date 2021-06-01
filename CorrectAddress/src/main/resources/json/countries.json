@@ -1,0 +1,3847 @@
+[
+  {
+    "name": "România",
+    "states": [
+      {
+        "name": "Iași",
+        "cities": [
+          {
+            "name": "Iași"
+          }
+        ]
+      },
+      {
+        "name": "Botoșani",
+        "cities": [
+          {
+            "name": "Botoșani"
+          }
+        ]
+      },
+      {
+        "name": "Vaslui",
+        "cities": [
+          {
+            "name": "Vaslui"
+          }
+        ]
+      },
+      {
+        "name": "Galați",
+        "cities": [
+          {
+            "name": "Galați"
+          }
+        ]
+      },
+      {
+        "name": "Tulcea",
+        "cities": [
+          {
+            "name": "Tulcea"
+          }
+        ]
+      },
+      {
+        "name": "Constanța",
+        "cities": [
+          {
+            "name": "Constanța"
+          }
+        ]
+      },
+      {
+        "name": "Călărași",
+        "cities": [
+          {
+            "name": "Călărași"
+          }
+        ]
+      },
+      {
+        "name": "Ialomița",
+        "cities": [
+          {
+            "name": "Slobozia"
+          }
+        ]
+      },
+      {
+        "name": "Brăila",
+        "cities": [
+          {
+            "name": "Brăila"
+          }
+        ]
+      },
+      {
+        "name": "Vrancea",
+        "cities": [
+          {
+            "name": "Focșani"
+          }
+        ]
+      },
+      {
+        "name": "Bacău",
+        "cities": [
+          {
+            "name": "Onești"
+          }
+        ]
+      },
+      {
+        "name": "Neamț",
+        "cities": [
+          {
+            "name": "Piatra Neamț"
+          }
+        ]
+      },
+      {
+        "name": "Suceava",
+        "cities": [
+          {
+            "name": "Suceava"
+          }
+        ]
+      },
+      {
+        "name": "Harghita",
+        "cities": [
+          {
+            "name": "Miercurea Ciuc"
+          }
+        ]
+      },
+      {
+        "name": "Covasna",
+        "cities": [
+          {
+            "name": "Sfântu Gheorghe"
+          }
+        ]
+      },
+      {
+        "name": "Buzău",
+        "cities": [
+          {
+            "name": "Buzău"
+          }
+        ]
+      },
+      {
+        "name": "Giurgiu",
+        "cities": [
+          {
+            "name": "Giurgiu"
+          }
+        ]
+      },
+      {
+        "name": "Ilfov",
+        "cities": [
+          {
+            "name": "București"
+          }
+        ]
+      },
+      {
+        "name": "Prahova",
+        "cities": [
+          {
+            "name": "Ploiești"
+          }
+        ]
+      },
+      {
+        "name": "Dâmbovița",
+        "cities": [
+          {
+            "name": "Târgoviște"
+          }
+        ]
+      },
+      {
+        "name": "Brașov",
+        "cities": [
+          {
+            "name": "Brașov"
+          }
+        ]
+      },
+      {
+        "name": "Mureș",
+        "cities": [
+          {
+            "name": "Târgu Mureș"
+          }
+        ]
+      },
+      {
+        "name": "Bistrița-Năsăud",
+        "cities": [
+          {
+            "name": "Bistrița"
+          }
+        ]
+      },
+      {
+        "name": "Maramureș",
+        "cities": [
+          {
+            "name": "Baia Mare"
+          }
+        ]
+      },
+      {
+        "name": "Satu Mare",
+        "cities": [
+          {
+            "name": "Satu Mare"
+          }
+        ]
+      },
+      {
+        "name": "Sălaj",
+        "cities": [
+          {
+            "name": "Zalău"
+          }
+        ]
+      },
+      {
+        "name": "Cluj",
+        "cities": [
+          {
+            "name": "Cluj-Napoca"
+          }
+        ]
+      },
+      {
+        "name": "Alba",
+        "cities": [
+          {
+            "name": "Alba Iulia"
+          }
+        ]
+      },
+      {
+        "name": "Sibiu",
+        "cities": [
+          {
+            "name": "Sibiu"
+          }
+        ]
+      },
+      {
+        "name": "Argeș",
+        "cities": [
+          {
+            "name": "Pitești"
+          }
+        ]
+      },
+      {
+        "name": "Teleorman",
+        "cities": [
+          {
+            "name": "Alexandria"
+          }
+        ]
+      },
+      {
+        "name": "Olt",
+        "cities": [
+          {
+            "name": "Slatina"
+          }
+        ]
+      },
+      {
+        "name": "Vâlcea",
+        "cities": [
+          {
+            "name": "Râmnicu Vâlcea"
+          }
+        ]
+      },
+      {
+        "name": "Dolj",
+        "cities": [
+          {
+            "name": "Craiova"
+          }
+        ]
+      },
+      {
+        "name": "Gorj",
+        "cities": [
+          {
+            "name": "Târgu Jiu"
+          }
+        ]
+      },
+      {
+        "name": "Mehedinți",
+        "cities": [
+          {
+            "name": "Drobeta-Turnu Severin"
+          }
+        ]
+      },
+      {
+        "name": "Hunedoara",
+        "cities": [
+          {
+            "name": "Deva"
+          }
+        ]
+      },
+      {
+        "name": "Bihor",
+        "cities": [
+          {
+            "name": "Oradea"
+          }
+        ]
+      },
+      {
+        "name": "Timiș",
+        "cities": [
+          {
+            "name": "Timișoara"
+          }
+        ]
+      },
+      {
+        "name": "Caraș-Severin",
+        "cities": [
+          {
+            "name": "Reșița"
+          }
+        ]
+      },
+      {
+        "name": "Arad",
+        "cities": [
+          {
+            "name": "Arad"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Statele Unite",
+    "states": [
+      {
+        "name": "Alabama",
+        "cities": [
+          {
+            "name": "Montgomery"
+          }
+        ]
+      },
+      {
+        "name": "Alaska",
+        "cities": [
+          {
+            "name": "Juneau"
+          }
+        ]
+      },
+      {
+        "name": "Arizona",
+        "cities": [
+          {
+            "name": "Phoenix"
+          }
+        ]
+      },
+      {
+        "name": "Arkansas",
+        "cities": [
+          {
+            "name": "Little Rock"
+          }
+        ]
+      },
+      {
+        "name": "California",
+        "cities": [
+          {
+            "name": "Sacramento"
+          }
+        ]
+      },
+      {
+        "name": "Carolina de Nord",
+        "cities": [
+          {
+            "name": "Raleigh"
+          }
+        ]
+      },
+      {
+        "name": "Carolina de Sud",
+        "cities": [
+          {
+            "name": "Columbia"
+          }
+        ]
+      },
+      {
+        "name": "Colorado",
+        "cities": [
+          {
+            "name": "Denver"
+          }
+        ]
+      },
+      {
+        "name": "Connecticut",
+        "cities": [
+          {
+            "name": "Hartford"
+          }
+        ]
+      },
+      {
+        "name": "Dakota de Nord",
+        "cities": [
+          {
+            "name": "Bismarck"
+          }
+        ]
+      },
+      {
+        "name": "Dakota de Sus",
+        "cities": [
+          {
+            "name": "Pierre"
+          }
+        ]
+      },
+      {
+        "name": "Delaware",
+        "cities": [
+          {
+            "name": "Dover"
+          }
+        ]
+      },
+      {
+        "name": "Florida",
+        "cities": [
+          {
+            "name": "Tallahassee"
+          }
+        ]
+      },
+      {
+        "name": "Georgia",
+        "cities": [
+          {
+            "name": "Atlanta"
+          }
+        ]
+      },
+      {
+        "name": "Hawaii",
+        "cities": [
+          {
+            "name": "Honolulu"
+          }
+        ]
+      },
+      {
+        "name": "Idaho",
+        "cities": [
+          {
+            "name": "Boise"
+          }
+        ]
+      },
+      {
+        "name": "Illinois",
+        "cities": [
+          {
+            "name": "Springfield"
+          }
+        ]
+      },
+      {
+        "name": "Indiana",
+        "cities": [
+          {
+            "name": "Indianapolis"
+          }
+        ]
+      },
+      {
+        "name": "Iowa",
+        "cities": [
+          {
+            "name": "Des Moines"
+          }
+        ]
+      },
+      {
+        "name": "Kansas",
+        "cities": [
+          {
+            "name": "Topeka"
+          }
+        ]
+      },
+      {
+        "name": "Kentucky",
+        "cities": [
+          {
+            "name": "Frankfort"
+          }
+        ]
+      },
+      {
+        "name": "Lousiana",
+        "cities": [
+          {
+            "name": "Baton Rouge"
+          }
+        ]
+      },
+      {
+        "name": "Maine",
+        "cities": [
+          {
+            "name": "Augusta"
+          }
+        ]
+      },
+      {
+        "name": "Maryland",
+        "cities": [
+          {
+            "name": "Annapolis"
+          }
+        ]
+      },
+      {
+        "name": "Massachusetts",
+        "cities": [
+          {
+            "name": "Boston"
+          }
+        ]
+      },
+      {
+        "name": "Michigan",
+        "cities": [
+          {
+            "name": "Lansing"
+          }
+        ]
+      },
+      {
+        "name": "Minnesota",
+        "cities": [
+          {
+            "name": "Saint Paul"
+          }
+        ]
+      },
+      {
+        "name": "Mississippi",
+        "cities": [
+          {
+            "name": "Jackson"
+          }
+        ]
+      },
+      {
+        "name": "Missouri",
+        "cities": [
+          {
+            "name": "Jefferson City"
+          }
+        ]
+      },
+      {
+        "name": "Montana",
+        "cities": [
+          {
+            "name": "Helena"
+          }
+        ]
+      },
+      {
+        "name": "Nebraska",
+        "cities": [
+          {
+            "name": "Lincoln"
+          }
+        ]
+      },
+      {
+        "name": "Nevada",
+        "cities": [
+          {
+            "name": "Carson City"
+          }
+        ]
+      },
+      {
+        "name": "New Hampshire",
+        "cities": [
+          {
+            "name": "Concord"
+          }
+        ]
+      },
+      {
+        "name": "New Jersey",
+        "cities": [
+          {
+            "name": "Trenton"
+          }
+        ]
+      },
+      {
+        "name": "New Mexico",
+        "cities": [
+          {
+            "name": "Santa Fe"
+          }
+        ]
+      },
+      {
+        "name": "New York",
+        "cities": [
+          {
+            "name": "Albany"
+          }
+        ]
+      },
+      {
+        "name": "Ohio",
+        "cities": [
+          {
+            "name": "Columbus"
+          }
+        ]
+      },
+      {
+        "name": "Oklahoma",
+        "cities": [
+          {
+            "name": "Oklahoma City"
+          }
+        ]
+      },
+      {
+        "name": "Oregon",
+        "cities": [
+          {
+            "name": "Salem"
+          }
+        ]
+      },
+      {
+        "name": "Pennsylvania",
+        "cities": [
+          {
+            "name": "Harrisburg"
+          }
+        ]
+      },
+      {
+        "name": "Rhode Island",
+        "cities": [
+          {
+            "name": "Providence"
+          }
+        ]
+      },
+      {
+        "name": "Tennessee",
+        "cities": [
+          {
+            "name": "Nashville"
+          }
+        ]
+      },
+      {
+        "name": "Texas",
+        "cities": [
+          {
+            "name": "Austin"
+          }
+        ]
+      },
+      {
+        "name": "Utah",
+        "cities": [
+          {
+            "name": "Salt Lake City"
+          }
+        ]
+      },
+      {
+        "name": "Vermont",
+        "cities": [
+          {
+            "name": "Montpelier"
+          }
+        ]
+      },
+      {
+        "name": "Virginia",
+        "cities": [
+          {
+            "name": "Richmond"
+          }
+        ]
+      },
+      {
+        "name": "Virginia de Vest",
+        "cities": [
+          {
+            "name": "Charleston"
+          }
+        ]
+      },
+      {
+        "name": "Washington",
+        "cities": [
+          {
+            "name": "Olympia"
+          }
+        ]
+      },
+      {
+        "name": "Wisconsin",
+        "cities": [
+          {
+            "name": "Madison"
+          }
+        ]
+      },
+      {
+        "name": "Wyoming",
+        "cities": [
+          {
+            "name": "Cheyenne"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Antigua și Barbuda",
+    "states": [
+      {
+        "name": "St. John's",
+        "cities": [
+          {
+            "name": "St. John's"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bahamas",
+    "states": [
+      {
+        "name": "Grand Bahama",
+        "cities": [
+          {
+            "name": "Freeport"
+          },
+          {
+            "name": "West End"
+          }
+        ]
+      },
+      {
+        "name": "Abaco",
+        "cities": [
+          {
+            "name": "Coopers Town"
+          },
+          {
+            "name": "Marsh Harbour"
+          }
+        ]
+      },
+      {
+        "name": "San Salvador",
+        "cities": [
+          {
+            "name": "Cockburn Town"
+          }
+        ]
+      },
+      {
+        "name": "Long Island",
+        "cities": [
+          {
+            "name": "Clarence Town"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Barbados",
+    "states": [
+      {
+        "name": "St. Michael",
+        "cities": [
+          {
+            "name": "Bridgetown"
+          }
+        ]
+      },
+      {
+        "name": "St. Lucy",
+        "cities": [
+          {
+            "name": "Crab Hill"
+          }
+        ]
+      },
+      {
+        "name": "St. Joseph",
+        "cities": [
+          {
+            "name": "Bathsheba"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Belize",
+    "states": [
+      {
+        "name": "Belmopan",
+        "cities": [
+          {
+            "name": "Belmopan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Costa Rica",
+    "states": [
+      {
+        "name": "San Jose",
+        "cities": [
+          {
+            "name": "San Jose"
+          },
+          {
+            "name": "Santiago"
+          },
+          {
+            "name": "San Juan"
+          },
+          {
+            "name": "Santa Ana"
+          },
+          {
+            "name": "San Pablo"
+          }
+        ]
+      },
+      {
+        "name": "Alajuela",
+        "cities": [
+          {
+            "name": "San Pedro"
+          },
+          {
+            "name": "Palmares"
+          },
+          {
+            "name": "Quesada"
+          }
+        ]
+      },
+      {
+        "name": "Cartago",
+        "cities": [
+          {
+            "name": "Cartago"
+          },
+          {
+            "name": "Pacayas"
+          }
+        ]
+      },
+      {
+        "name": "Puntarenas",
+        "cities": [
+          {
+            "name": "Miramar"
+          },
+          {
+            "name": "La Cruz"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cuba",
+    "states": [
+      {
+        "name": "Havana",
+        "cities": [
+          {
+            "name": "Havana"
+          }
+        ]
+      },
+      {
+        "name": "Santiago de Cuba",
+        "cities": [
+          {
+            "name": "Santiago de Cuba"
+          }
+        ]
+      },
+      {
+        "name": "Holguin",
+        "cities": [
+          {
+            "name": "Holguin"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dominica",
+    "states": [
+      {
+        "name": "Roseau",
+        "cities": [
+          {
+            "name": "Roseau"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Republica Dominicană",
+    "states": [
+      {
+        "name": "Santo Domingo",
+        "cities": [
+          {
+            "name": "Santo Domingo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "El Salvador",
+    "states": [
+      {
+        "name": "San Salvador",
+        "cities": [
+          {
+            "name": "San Salvadar"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Grenada",
+    "states": [
+      {
+        "name": "Saint George's",
+        "cities": [
+          {
+            "name": "Saint George's"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Guatemala",
+    "states": [
+      {
+        "name": "Ciudad de Guatemala",
+        "cities": [
+          {
+            "name": "Ciudad de Guatemala"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Canada",
+    "states": [
+      {
+        "name": "Ontario",
+        "cities": [
+          {
+            "name": "Toronto"
+          }
+        ]
+      },
+      {
+        "name": "Quebec",
+        "cities": [
+          {
+            "name": "Quebec City"
+          },
+          {
+            "name": "Montreal"
+          }
+        ]
+      },
+      {
+        "name": "Nova Scotia",
+        "cities": [
+          {
+            "name": "Halifax"
+          }
+        ]
+      },
+      {
+        "name": "New Brunswick",
+        "cities": [
+          {
+            "name": "Fredericton"
+          },
+          {
+            "name": "Moncton"
+          }
+        ]
+      },
+      {
+        "name": "Manitoba",
+        "cities": [
+          {
+            "name": "Winnipeg"
+          }
+        ]
+      },
+      {
+        "name": "British Columbia",
+        "cities": [
+          {
+            "name": "Victoria"
+          },
+          {
+            "name": "Vancouver"
+          }
+        ]
+      },
+      {
+        "name": "Prince Edward Island",
+        "cities": [
+          {
+            "name": "Charlottetown"
+          }
+        ]
+      },
+      {
+        "name": "Saskatchewan",
+        "cities": [
+          {
+            "name": "Regina"
+          },
+          {
+            "name": "Saskatoon"
+          }
+        ]
+      },
+      {
+        "name": "Alberta",
+        "cities": [
+          {
+            "name": "Edmonton"
+          },
+          {
+            "name": "Calgary"
+          }
+        ]
+      },
+      {
+        "name": "Newfoundland and Labrador",
+        "cities": [
+          {
+            "name": "St. John's"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Haiti",
+    "states": [
+      {
+        "name": "Port-au-Prince",
+        "cities": [
+          {
+            "name": "Port-au-Prince"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Honduras",
+    "states": [
+      {
+        "name": "Tegucigalpa",
+        "cities": [
+          {
+            "name": "Tegucigalpa"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jamaica",
+    "states": [
+      {
+        "name": "Kingston",
+        "cities": [
+          {
+            "name": "Kingston"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mexic",
+    "states": [
+      {
+        "name": "La Paz",
+        "cities": [
+          {
+            "name": "La Paz"
+          }
+        ]
+      },
+      {
+        "name": "Mexico City",
+        "cities": [
+          {
+            "name": "Mexico City"
+          }
+        ]
+      },
+      {
+        "name": "Guadalajara",
+        "cities": [
+          {
+            "name": "Guadalajara"
+          }
+        ]
+      },
+      {
+        "name": "Chetumal",
+        "cities": [
+          {
+            "name": "Cancun"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nicaragua",
+    "states": [
+      {
+        "name": "Managua",
+        "cities": [
+          {
+            "name": "Managua"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Panama",
+    "states": [
+      {
+        "name": "Ciudad de Panama",
+        "cities": [
+          {
+            "name": "Ciudad de Panama"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sfânta Lucia",
+    "states": [
+      {
+        "name": "Castries",
+        "cities": [
+          {
+            "name": "Castries"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sfântul Kitts și Nevis",
+    "states": [
+      {
+        "name": "Basseterre",
+        "cities": [
+          {
+            "name": "Basseterre"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sfântul Vicențiu și Grenadine",
+    "states": [
+      {
+        "name": "Kingstown",
+        "cities": [
+          {
+            "name": "Kingstown"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Trinidad și Tobago",
+    "states": [
+      {
+        "name": "Port of Spain",
+        "cities": [
+          {
+            "name": "Port of Spain"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Argentina",
+    "states": [
+      {
+        "name": "Buenos Aires",
+        "cities": [
+          {
+            "name": "La Plata"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bolivia",
+    "states": [
+      {
+        "name": "Sucre",
+        "cities": [
+          {
+            "name": "Sucre"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Brazilia",
+    "states": [
+      {
+        "name": "Sao Paulo",
+        "cities": [
+          {
+            "name": "Sao Paulo"
+          }
+        ]
+      },
+      {
+        "name": "Rio de Janeiro",
+        "cities": [
+          {
+            "name": "Rio de Janeiro"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Chile",
+    "states": [
+      {
+        "name": "Chile",
+        "cities": [
+          {
+            "name": "Santiago de Chile"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Columbia",
+    "states": [
+      {
+        "name": "Cundinamarca",
+        "cities": [
+          {
+            "name": "Bogota"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ecuador",
+    "states": [
+      {
+        "name": "Pichincha",
+        "cities": [
+          {
+            "name": "Quito"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Paraguay",
+    "states": [
+      {
+        "name": "Asuncion",
+        "cities": [
+          {
+            "name": "Asuncion"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Peru",
+    "states": [
+      {
+        "name": "Lima",
+        "cities": [
+          {
+            "name": "Lima"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Surinam",
+    "states": [
+      {
+        "name": "Paramaribo",
+        "cities": [
+          {
+            "name": "Paramaribo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Uruguay",
+    "states": [
+      {
+        "name": "Montevideo",
+        "cities": [
+          {
+            "name": "Montevideo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Venezuela",
+    "states": [
+      {
+        "name": "Capital District",
+        "cities": [
+          {
+            "name": "Caracas"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Guyana",
+    "states": [
+      {
+        "name": "Georgetown",
+        "cities": [
+          {
+            "name": "Georgetown"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Anglia",
+    "states": [
+      {
+        "name": "Londra Mare",
+        "cities": [
+          {
+            "name": "Londra"
+          }
+        ]
+      },
+      {
+        "name": "Essex",
+        "cities": [
+          {
+            "name": "Harlow"
+          }
+        ]
+      },
+      {
+        "name": "Hampshire",
+        "cities": [
+          {
+            "name": "Winchester"
+          },
+          {
+            "name": "Southampton"
+          },
+          {
+            "name": "Portsmouth"
+          }
+        ]
+      },
+      {
+        "name": "Norfolk",
+        "cities": [
+          {
+            "name": "Norwich"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Irlanda",
+    "states": [
+      {
+        "name": "Connacht",
+        "cities": [
+          {
+            "name": "Galway"
+          }
+        ]
+      },
+      {
+        "name": "Leinster",
+        "cities": [
+          {
+            "name": "Dublin"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Scoția",
+    "states": [
+      {
+        "name": "Edinburgh",
+        "cities": [
+          {
+            "name": "Edinburgh"
+          }
+        ]
+      },
+      {
+        "name": "Glasgow",
+        "cities": [
+          {
+            "name": "Glasgow"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Țara Galilor",
+    "states": [
+      {
+        "name": "Cardiff",
+        "cities": [
+          {
+            "name": "Cardiff"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Albania",
+    "states": [
+      {
+        "name": "Tirana",
+        "cities": [
+          {
+            "name": "Tirana"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Andorra",
+    "states": [
+      {
+        "name": "Andorra la Vella",
+        "cities": [
+          {
+            "name": "Andorra la Vella"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Armenia",
+    "states": [
+      {
+        "name": "Erevan",
+        "cities": [
+          {
+            "name": "Erevan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Azerbaidjan",
+    "states": [
+      {
+        "name": "Absheron",
+        "cities": [
+          {
+            "name": "Baku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Austria",
+    "states": [
+      {
+        "name": "Viena",
+        "cities": [
+          {
+            "name": "Viena"
+          }
+        ]
+      },
+      {
+        "name": "Salzburg",
+        "cities": [
+          {
+            "name": "Salzburg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Belarus",
+    "states": [
+      {
+        "name": "Minsk",
+        "cities": [
+          {
+            "name": "Minsk"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Belgia",
+    "states": [
+      {
+        "name": "Bruxelles",
+        "cities": [
+          {
+            "name": "Bruxelles"
+          }
+        ]
+      },
+      {
+        "name": "Anvers",
+        "cities": [
+          {
+            "name": "Anvers"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bosnia și Herțegovina",
+    "states": [
+      {
+        "name": "Sarajevo",
+        "cities": [
+          {
+            "name": "Sarajevo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bulgaria",
+    "states": [
+      {
+        "name": "Sofia City",
+        "cities": [
+          {
+            "name": "Sofia"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cehia",
+    "states": [
+      {
+        "name": "Praga",
+        "cities": [
+          {
+            "name": "Praga"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cipru",
+    "states": [
+      {
+        "name": "Nicosia",
+        "cities": [
+          {
+            "name": "Nicosia"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Croația",
+    "states": [
+      {
+        "name": "Zagreb",
+        "cities": [
+          {
+            "name": "Zagreb"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Danemarca",
+    "states": [
+      {
+        "name": "Copenhaga",
+        "cities": [
+          {
+            "name": "Copenhaga"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Elveția",
+    "states": [
+      {
+        "name": "Berna",
+        "cities": [
+          {
+            "name": "Berna"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Estonia",
+    "states": [
+      {
+        "name": "Tallinn",
+        "cities": [
+          {
+            "name": "Tallinn"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Finlanda",
+    "states": [
+      {
+        "name": "Helsinki",
+        "cities": [
+          {
+            "name": "Helsinki"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Franța",
+    "states": [
+      {
+        "name": "Ile-de-France",
+        "cities": [
+          {
+            "name": "Paris"
+          }
+        ]
+      },
+      {
+        "name": "Gironde",
+        "cities": [
+          {
+            "name": "Bordeaux"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Georgia",
+    "states": [
+      {
+        "name": "Tbilisi",
+        "cities": [
+          {
+            "name": "Tbilisi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Germania",
+    "states": [
+      {
+        "name": "Berlin",
+        "cities": [
+          {
+            "name": "Berlin"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Grecia",
+    "states": [
+      {
+        "name": "Atena",
+        "cities": [
+          {
+            "name": "Atena"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Islanda",
+    "states": [
+      {
+        "name": "Reykjavik",
+        "cities": [
+          {
+            "name": "Reykjavik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Italia",
+    "states": [
+      {
+        "name": "Roma",
+        "cities": [
+          {
+            "name": "Roma"
+          }
+        ]
+      },
+      {
+        "name": "Milano",
+        "cities": [
+          {
+            "name": "Milano"
+          }
+        ]
+      },
+      {
+        "name": "Napoli",
+        "cities": [
+          {
+            "name": "Napoli"
+          }
+        ]
+      },
+      {
+        "name": "Veneția",
+        "cities": [
+          {
+            "name": "Veneția"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lituania",
+    "states": [
+      {
+        "name": "Vilnius",
+        "cities": [
+          {
+            "name": "Vilnius"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Letonia",
+    "states": [
+      {
+        "name": "Riga",
+        "cities": [
+          {
+            "name": "Riga"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Liechtenstein",
+    "states": [
+      {
+        "name": "Vaduz",
+        "cities": [
+          {
+            "name": "Vaduz"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Luxemburg",
+    "states": [
+      {
+        "name": "Luxemburg",
+        "cities": [
+          {
+            "name": "Vaduz"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Monaco",
+    "states": [
+      {
+        "name": "Monaco",
+        "cities": [
+          {
+            "name": "Monaco"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Muntenegru",
+    "states": [
+      {
+        "name": "Podgorița",
+        "cities": [
+          {
+            "name": "Podgorița"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Norvegia",
+    "states": [
+      {
+        "name": "Oslo",
+        "cities": [
+          {
+            "name": "Oslo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Olanda",
+    "states": [
+      {
+        "name": "Amsterdam",
+        "cities": [
+          {
+            "name": "Amsterdam"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Polonia",
+    "states": [
+      {
+        "name": "Varșovia",
+        "cities": [
+          {
+            "name": "Varșovia"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Portugalia",
+    "states": [
+      {
+        "name": "Lisabona",
+        "cities": [
+          {
+            "name": "Lisabona"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Macedonia de Nord",
+    "states": [
+      {
+        "name": "Skopje",
+        "cities": [
+          {
+            "name": "Skopje"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Republia Moldova",
+    "states": [
+      {
+        "name": "Chișinău",
+        "cities": [
+          {
+            "name": "Chișinău"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Rusia",
+    "states": [
+      {
+        "name": "Moscova",
+        "cities": [
+          {
+            "name": "Moscova"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Serbia",
+    "states": [
+      {
+        "name": "Belgrad",
+        "cities": [
+          {
+            "name": "Belgrad"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "San Marino",
+    "states": [
+      {
+        "name": "San Marino",
+        "cities": [
+          {
+            "name": "San Marino"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Slovenia",
+    "states": [
+      {
+        "name": "Ljubljana",
+        "cities": [
+          {
+            "name": "Ljubljana"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Slovacia",
+    "states": [
+      {
+        "name": "Bratislava",
+        "cities": [
+          {
+            "name": "Bratislava"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Spania",
+    "states": [
+      {
+        "name": "Madrid",
+        "cities": [
+          {
+            "name": "Madrid"
+          }
+        ]
+      },
+      {
+        "name": "Huelva",
+        "cities": [
+          {
+            "name": "Huelva"
+          }
+        ]
+      },
+      {
+        "name": "Leon",
+        "cities": [
+          {
+            "name": "Leon"
+          }
+        ]
+      },
+      {
+        "name": "Malaga",
+        "cities": [
+          {
+            "name": "Malaga"
+          }
+        ]
+      },
+      {
+        "name": "Valencia",
+        "cities": [
+          {
+            "name": "Valencia"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Suedia",
+    "states": [
+      {
+        "name": "Stockholn",
+        "cities": [
+          {
+            "name": "Stockholm"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Turcia",
+    "states": [
+      {
+        "name": "Ankara",
+        "cities": [
+          {
+            "name": "Ankara"
+          }
+        ]
+      },
+      {
+        "name": "Antalya",
+        "cities": [
+          {
+            "name": "Antalya"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ucraina",
+    "states": [
+      {
+        "name": "Kiev",
+        "cities": [
+          {
+            "name": "Kiev"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ungaria",
+    "states": [
+      {
+        "name": "Budapesta",
+        "cities": [
+          {
+            "name": "Budapesta"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Vatican",
+    "states": [
+      {
+        "name": "Vatican",
+        "cities": [
+          {
+            "name": "Vatican"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Australia",
+    "states": [
+      {
+        "name": "Canberra",
+        "cities": [
+          {
+            "name": "Canberra"
+          }
+        ]
+      },
+      {
+        "name": "Noul Wales de Sud",
+        "cities": [
+          {
+            "name": "Sydney"
+          }
+        ]
+      },
+      {
+        "name": "Australia de Vest",
+        "cities": [
+          {
+            "name": "Perth"
+          }
+        ]
+      },
+      {
+        "name": "Victoria",
+        "cities": [
+          {
+            "name": "Melbourne"
+          }
+        ]
+      },
+      {
+        "name": "Queensland",
+        "cities": [
+          {
+            "name": "Brisbane"
+          }
+        ]
+      },
+      {
+        "name": "Australia de Sud",
+        "cities": [
+          {
+            "name": "Adelaide"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fiji",
+    "states": [
+      {
+        "name": "Suva",
+        "cities": [
+          {
+            "name": "Suva"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kiribati",
+    "states": [
+      {
+        "name": "Tarawa",
+        "cities": [
+          {
+            "name": "Tarawa"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "New Zealand",
+    "states": [
+      {
+        "name": "Wellington",
+        "cities": [
+          {
+            "name": "Wellington"
+          }
+        ]
+      },
+      {
+        "name": "Auckland",
+        "cities": [
+          {
+            "name": "Auckland"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Insulele Marshall",
+    "states": [
+      {
+        "name": "Majuro",
+        "cities": [
+          {
+            "name": "Majuro"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Micronezia",
+    "states": [
+      {
+        "name": "Palikir",
+        "cities": [
+          {
+            "name": "Palikir"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nauru",
+    "states": [
+      {
+        "name": "Yaren",
+        "cities": [
+          {
+            "name": "Yaren"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Palau",
+    "states": [
+      {
+        "name": "Ngerulmud",
+        "cities": [
+          {
+            "name": "Ngerulmud"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Papua Noua Guinee",
+    "states": [
+      {
+        "name": "National Capital District",
+        "cities": [
+          {
+            "name": "Port Moresby"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Samoa",
+    "states": [
+      {
+        "name": "Apia",
+        "cities": [
+          {
+            "name": "Apia"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Insulele Solomon",
+    "states": [
+      {
+        "name": "Honiara",
+        "cities": [
+          {
+            "name": "Honiara"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tonga",
+    "states": [
+      {
+        "name": "Nuku'alofa",
+        "cities": [
+          {
+            "name": "Nuku'alofa"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tuvalu",
+    "states": [
+      {
+        "name": "Funafuti",
+        "cities": [
+          {
+            "name": "Funafuti"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Vanuatu",
+    "states": [
+      {
+        "name": "Vanuatu",
+        "cities": [
+          {
+            "name": "Port Vila"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Afghanistan",
+    "states": [
+      {
+        "name": "Kabul",
+        "cities": [
+          {
+            "name": "Kabul"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bahrain",
+    "states": [
+      {
+        "name": "Manama",
+        "cities": [
+          {
+            "name": "Manama"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bangladesh",
+    "states": [
+      {
+        "name": "Dhaka",
+        "cities": [
+          {
+            "name": "Dhaka"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bhutan",
+    "states": [
+      {
+        "name": "Thimphu",
+        "cities": [
+          {
+            "name": "Thimphu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Brunei",
+    "states": [
+      {
+        "name": "Brunei-Muara",
+        "cities": [
+          {
+            "name": "Bandar Seri Begawan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cambodgia",
+    "states": [
+      {
+        "name": "Phnom Penh",
+        "cities": [
+          {
+            "name": "Phnom Penh"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "China",
+    "states": [
+      {
+        "name": "Beijing",
+        "cities": [
+          {
+            "name": "Beijing"
+          }
+        ]
+      },
+      {
+        "name": "Shanghai",
+        "cities": [
+          {
+            "name": "Shanghai"
+          }
+        ]
+      },
+      {
+        "name": "Hubei",
+        "cities": [
+          {
+            "name": "Wuhan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Timorul de Est",
+    "states": [
+      {
+        "name": "Dili",
+        "cities": [
+          {
+            "name": "Dili"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "India",
+    "states": [
+      {
+        "name": "Delhi",
+        "cities": [
+          {
+            "name": "New Delhi"
+          }
+        ]
+      },
+      {
+        "name": "Maharashtra",
+        "cities": [
+          {
+            "name": "Mumbai"
+          }
+        ]
+      },
+      {
+        "name": "Rajasthan",
+        "cities": [
+          {
+            "name": "Jaipur"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Indonezia",
+    "states": [
+      {
+        "name": "Jakarta",
+        "cities": [
+          {
+            "name": "Jakarta"
+          }
+        ]
+      },
+      {
+        "name": "Java de Est",
+        "cities": [
+          {
+            "name": "Surabaya"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Iran",
+    "states": [
+      {
+        "name": "Teheran",
+        "cities": [
+          {
+            "name": "Teheran"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Iraq",
+    "states": [
+      {
+        "name": "Bagdad",
+        "cities": [
+          {
+            "name": "Bagdad"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Israel",
+    "states": [
+      {
+        "name": "Tel Aviv",
+        "cities": [
+          {
+            "name": "Tel Aviv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Japonia",
+    "states": [
+      {
+        "name": "Tokyo",
+        "cities": [
+          {
+            "name": "Tokyo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Iordania",
+    "states": [
+      {
+        "name": "Amman",
+        "cities": [
+          {
+            "name": "Amman"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kazakhstan",
+    "states": [
+      {
+        "name": "Nur-Sultan",
+        "cities": [
+          {
+            "name": "Nur-Sultan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kuwait",
+    "states": [
+      {
+        "name": "Kuwait",
+        "cities": [
+          {
+            "name": "Kuwait City"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kyrgyzstan",
+    "states": [
+      {
+        "name": "Bishkek",
+        "cities": [
+          {
+            "name": "Bishkek"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lebanon",
+    "states": [
+      {
+        "name": "Beirut",
+        "cities": [
+          {
+            "name": "Beirut"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Malaezia",
+    "states": [
+      {
+        "name": "Kuala Lumpur",
+        "cities": [
+          {
+            "name": "Kuala Lumpur"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Maldive",
+    "states": [
+      {
+        "name": "Male",
+        "cities": [
+          {
+            "name": "Male"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mongolia",
+    "states": [
+      {
+        "name": "Ulaanbaatar",
+        "cities": [
+          {
+            "name": "Ulaanbaatar"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Myanmar",
+    "states": [
+      {
+        "name": "Naypyidaw",
+        "cities": [
+          {
+            "name": "Naypyidaw"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nepal",
+    "states": [
+      {
+        "name": "Nepal",
+        "cities": [
+          {
+            "name": "Kathmandu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Coreea de Nord",
+    "states": [
+      {
+        "name": "Phenian",
+        "cities": [
+          {
+            "name": "Phenian"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Coreea de Sud",
+    "states": [
+      {
+        "name": "Seul",
+        "cities": [
+          {
+            "name": "Seul"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Oman",
+    "states": [
+      {
+        "name": "Muscat",
+        "cities": [
+          {
+            "name": "Muscat"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Pakistan",
+    "states": [
+      {
+        "name": "Islamabad",
+        "cities": [
+          {
+            "name": "Islamabad"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Filipine",
+    "states": [
+      {
+        "name": "Manila",
+        "cities": [
+          {
+            "name": "Manila"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Qatar",
+    "states": [
+      {
+        "name": "Doha",
+        "cities": [
+          {
+            "name": "Doha"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Arabia Saudită",
+    "states": [
+      {
+        "name": "Riad",
+        "cities": [
+          {
+            "name": "Riad"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Singapore",
+    "states": [
+      {
+        "name": "Singapore",
+        "cities": [
+          {
+            "name": "Singapore"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sri Lanka",
+    "states": [
+      {
+        "name": "Colombo",
+        "cities": [
+          {
+            "name": "Colombo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Siria",
+    "states": [
+      {
+        "name": "Damasc",
+        "cities": [
+          {
+            "name": "Damasc"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Taiwan",
+    "states": [
+      {
+        "name": "Taipei",
+        "cities": [
+          {
+            "name": "Taipei"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tadjikistan",
+    "states": [
+      {
+        "name": "Dushanbe",
+        "cities": [
+          {
+            "name": "Dushanbe"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Thailanda",
+    "states": [
+      {
+        "name": "Bangkok",
+        "cities": [
+          {
+            "name": "Bangkok"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Turkmenistan",
+    "states": [
+      {
+        "name": "Ashgabat",
+        "cities": [
+          {
+            "name": "Ashgabat"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Emiratele Arabe Unite",
+    "states": [
+      {
+        "name": "Abu Dhabi",
+        "cities": [
+          {
+            "name": "Abu Dhabi"
+          }
+        ]
+      },
+      {
+        "name": "Dubai",
+        "cities": [
+          {
+            "name": "Dubai"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Uzbekistan",
+    "states": [
+      {
+        "name": "Tashkent",
+        "cities": [
+          {
+            "name": "Tashkent"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Vietnam",
+    "states": [
+      {
+        "name": "Hanoi",
+        "cities": [
+          {
+            "name": "Hanoi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Yemen",
+    "states": [
+      {
+        "name": "Sanaa",
+        "cities": [
+          {
+            "name": "Sanaa"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Burundi",
+    "states": [
+      {
+        "name": "Bujumbura Mairie",
+        "cities": [
+          {
+            "name": "Bujumbura"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Comore",
+    "states": [
+      {
+        "name": "Grande Comore",
+        "cities": [
+          {
+            "name": "Moroni"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Djibouti",
+    "states": [
+      {
+        "name": "Djibouti",
+        "cities": [
+          {
+            "name": "Djibouti"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Eritreea",
+    "states": [
+      {
+        "name": "Asmara",
+        "cities": [
+          {
+            "name": "Asmara"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Etiopia",
+    "states": [
+      {
+        "name": "Addis Ababa",
+        "cities": [
+          {
+            "name": "Addis Ababa"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kenya",
+    "states": [
+      {
+        "name": "Nairobi",
+        "cities": [
+          {
+            "name": "Nairobi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Madagascar",
+    "states": [
+      {
+        "name": "Antananarivo",
+        "cities": [
+          {
+            "name": "Antananarivo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Malawi",
+    "states": [
+      {
+        "name": "Lilongwe",
+        "cities": [
+          {
+            "name": "Lilongwe"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mauritius",
+    "states": [
+      {
+        "name": "Port Louis",
+        "cities": [
+          {
+            "name": "Port Louis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mayotte",
+    "states": [
+      {
+        "name": "Mamoudzou",
+        "cities": [
+          {
+            "name": "Mamoudzou"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mozambic",
+    "states": [
+      {
+        "name": "Maputo",
+        "cities": [
+          {
+            "name": "Maputo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Reunion",
+    "states": [
+      {
+        "name": "Saint-Denis",
+        "cities": [
+          {
+            "name": "Saint-Denis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Rwanda",
+    "states": [
+      {
+        "name": "Kigali",
+        "cities": [
+          {
+            "name": "Kigali"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Seychelles",
+    "states": [
+      {
+        "name": "Seychelles",
+        "cities": [
+          {
+            "name": "Victoria"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Somalia",
+    "states": [
+      {
+        "name": "Banaadir",
+        "cities": [
+          {
+            "name": "Mogadishu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tanzania",
+    "states": [
+      {
+        "name": "Dodoma",
+        "cities": [
+          {
+            "name": "Dodoma"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Uganda",
+    "states": [
+      {
+        "name": "Kampala",
+        "cities": [
+          {
+            "name": "Kampala"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Zambia",
+    "states": [
+      {
+        "name": "Lusaka",
+        "cities": [
+          {
+            "name": "Lusaka"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Angola",
+    "states": [
+      {
+        "name": "Luanda",
+        "cities": [
+          {
+            "name": "Luanda"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Camerun",
+    "states": [
+      {
+        "name": "Yaounde",
+        "cities": [
+          {
+            "name": "Yaounde"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Republica Centrafricană",
+    "states": [
+      {
+        "name": "Bangui",
+        "cities": [
+          {
+            "name": "Bangui"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ciad",
+    "states": [
+      {
+        "name": "N'Djamena",
+        "cities": [
+          {
+            "name": "N'Djamena"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Republica Congo",
+    "states": [
+      {
+        "name": "Brazzaville",
+        "cities": [
+          {
+            "name": "Brazzaville"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Republica Democrată Congo",
+    "states": [
+      {
+        "name": "Kinshasa",
+        "cities": [
+          {
+            "name": "Kinshasa"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gabon",
+    "states": [
+      {
+        "name": "Libreville",
+        "cities": [
+          {
+            "name": "Libreville"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Guineea Ecuatorială",
+    "states": [
+      {
+        "name": "Malabo",
+        "cities": [
+          {
+            "name": "Malabo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sao Tome și Principe",
+    "states": [
+      {
+        "name": "Sao Tome",
+        "cities": [
+          {
+            "name": "Sao Tome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Algeria",
+    "states": [
+      {
+        "name": "Alger",
+        "cities": [
+          {
+            "name": "Alger"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Insulele Canare",
+    "states": [
+      {
+        "name": "Santa Cruz de Tenerife",
+        "cities": [
+          {
+            "name": "Santa Cruz de Tenerife"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ceuta",
+    "states": [
+      {
+        "name": "Ceuta",
+        "cities": [
+          {
+            "name": "Ceuta"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Egipt",
+    "states": [
+      {
+        "name": "Cairo",
+        "cities": [
+          {
+            "name": "Cairo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Libia",
+    "states": [
+      {
+        "name": "Tripoli",
+        "cities": [
+          {
+            "name": "Tripoli"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Madeira",
+    "states": [
+      {
+        "name": "Funchal",
+        "cities": [
+          {
+            "name": "Funchal"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Melilla",
+    "states": [
+      {
+        "name": "Melilla",
+        "cities": [
+          {
+            "name": "Melilla"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Maroc",
+    "states": [
+      {
+        "name": "Rabat-Sale-Kenitra",
+        "cities": [
+          {
+            "name": "Rabat"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sahara Occidentală",
+    "states": [
+      {
+        "name": "El Aaiun",
+        "cities": [
+          {
+            "name": "El Aaiun"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sudan",
+    "states": [
+      {
+        "name": "Khartoum",
+        "cities": [
+          {
+            "name": "Khartoum"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sudanul de Sud",
+    "states": [
+      {
+        "name": "Ecuatoria Centrală",
+        "cities": [
+          {
+            "name": "Juba"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tunisia",
+    "states": [
+      {
+        "name": "Tunis",
+        "cities": [
+          {
+            "name": "Tunis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Africa de Sud",
+    "states": [
+      {
+        "name": "Gauteng",
+        "cities": [
+          {
+            "name": "Pretoria"
+          }
+        ]
+      },
+      {
+        "name": "Western Cape",
+        "cities": [
+          {
+            "name": "Cape Town"
+          }
+        ]
+      },
+      {
+        "name": "Free State",
+        "cities": [
+          {
+            "name": "Bloemfontein"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Botswana",
+    "states": [
+      {
+        "name": "Gaborone",
+        "cities": [
+          {
+            "name": "Gaborone"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Eswatini",
+    "states": [
+      {
+        "name": "Hhohho",
+        "cities": [
+          {
+            "name": "Mbabane"
+          },
+          {
+            "name": "Lobamba"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lesotho",
+    "states": [
+      {
+        "name": "Maseru",
+        "cities": [
+          {
+            "name": "Maseru"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Namibia",
+    "states": [
+      {
+        "name": "Khomas",
+        "cities": [
+          {
+            "name": "Windhoek"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Zimbabwe",
+    "states": [
+      {
+        "name": "Harare",
+        "cities": [
+          {
+            "name": "Harare"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Benin",
+    "states": [
+      {
+        "name": "Littoral",
+        "cities": [
+          {
+            "name": "Cotonou"
+          }
+        ]
+      },
+      {
+        "name": "Oueme",
+        "cities": [
+          {
+            "name": "Porto-Novo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Burkina Faso",
+    "states": [
+      {
+        "name": "Kadiogo",
+        "cities": [
+          {
+            "name": "Ouagadougou"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Capul Verde",
+    "states": [
+      {
+        "name": "Praia",
+        "cities": [
+          {
+            "name": "Praia"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cote d'lvoire",
+    "states": [
+      {
+        "name": "Abidjan",
+        "cities": [
+          {
+            "name": "Abidjan"
+          }
+        ]
+      },
+      {
+        "name": "Yamoussoukro",
+        "cities": [
+          {
+            "name": "Yamoussoukro"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gambia",
+    "states": [
+      {
+        "name": "Banjul",
+        "cities": [
+          {
+            "name": "Banjul"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ghana",
+    "states": [
+      {
+        "name": "Regiunea Marea Accra",
+        "cities": [
+          {
+            "name": "Accra"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Guineea",
+    "states": [
+      {
+        "name": "Conakry",
+        "cities": [
+          {
+            "name": "Conakry"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Guineea-Bissau",
+    "states": [
+      {
+        "name": "Bissau",
+        "cities": [
+          {
+            "name": "Bissau"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Liberia",
+    "states": [
+      {
+        "name": "Montserrado",
+        "cities": [
+          {
+            "name": "Monrovia"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mali",
+    "states": [
+      {
+        "name": "Bamako",
+        "cities": [
+          {
+            "name": "Bamako"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mauritania",
+    "states": [
+      {
+        "name": "Trarza",
+        "cities": [
+          {
+            "name": "Nouakchott"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Niger",
+    "states": [
+      {
+        "name": "Niamey",
+        "cities": [
+          {
+            "name": "Niamey"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nigeria",
+    "states": [
+      {
+        "name": "Niger",
+        "cities": [
+          {
+            "name": "Abuja"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sfânta Elena, Ascension și Tristan da Cunha",
+    "states": [
+      {
+        "name": "Jamestown",
+        "cities": [
+          {
+            "name": "Jamestown"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Senegal",
+    "states": [
+      {
+        "name": "Dakar",
+        "cities": [
+          {
+            "name": "Dakar"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sierra Leone",
+    "states": [
+      {
+        "name": "Zona de Vest",
+        "cities": [
+          {
+            "name": "Freetown"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Togo",
+    "states": [
+      {
+        "name": "Savanes",
+        "cities": [
+          {
+            "name": "Lome"
+          }
+        ]
+      }
+    ]
+  }
+]
